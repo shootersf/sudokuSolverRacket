@@ -285,3 +285,5 @@
 		(pretify (solve P))
 ))
 	
+;;; CALL THE SOLVER ;;;
+(ps puzzle)
